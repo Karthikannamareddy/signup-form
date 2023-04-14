@@ -14,12 +14,15 @@ body {
     padding: 20px;
     margin: 6% auto 0;
     text-align: center;
-   display: flex;
 }
 .signup form h1 {
     color: #1c8adb;
     margin-bottom: 20px;
 }
+label {
+    display: block;
+    margin: 0.5rem 0;
+  }
 .input-box {
     border-radius: 20px;
     padding: 10px;
