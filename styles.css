@@ -37,5 +37,10 @@ button {
     border: none;
     color: #fff;
     cursor: pointer;
-
+}
+.signup-btn {
+    background-color: #1c8adb;
+}
+a {
+    text-decoration: none;
 }
