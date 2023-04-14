@@ -20,7 +20,7 @@ body {
     margin-bottom: 20px;
 }
 label {
-    display: block;
+    display: flex;
     margin: 0.5rem 0;
   }
 .input-box {
@@ -30,6 +30,7 @@ label {
     width: 100%;
     border: 1px solid #999;
     outline: none;
+    display: flex;
 }
 button {
     border-radius: 20px;
